@@ -6,5 +6,8 @@ public class Test2 {
         System.out.println("Test2 is the name of the class");
         System.out.println("Test3");
         System.out.println("Final commit signOff");
+
+        // Test again
+        System.out.println("practice sixteen August");
     }
 }
